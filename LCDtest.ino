@@ -1,16 +1,18 @@
-/*LCD pins
-pin1 VSS = Ground
-pin2 VDD = +5V
-pin3 V0 = Ground
+/* LiquidCrystal Library - Demonstrates the use a 16x2 LCD display.
+
+LCD pins
+pin1 VSS (Ground) = Ground
+pin2 VDD (VCC) = +5V
+pin3 V0  (VEE)= Ground
 pin4 RS = 7
 pin5 R/W = Ground
-pin6 E = 6
+pin6 E (Enable)= 6
 pin11 D4 = 5
 pin12 D5 = 4
 pin13 D6 = 3
 pin14 D7 = 2
-pin15 A = +5V
-pin16 k = Ground 
+pin15 A (Led +) = +5V
+pin16 k (Led -)= Ground 
 */
 #include<LiquidCrystal.h>
 int RS=7;

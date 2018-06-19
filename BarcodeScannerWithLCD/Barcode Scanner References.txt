@@ -1,0 +1,6 @@
+References to Barcode Scanner with LCD
+https://www.circuitsathome.com/mcu/connecting-barcode-scanner-arduino-usb-host-shield/
+
+https://www.electroingenio.com/arduino-en/bar-code-scanner-arduino-usb-shield-2/
+
+https://github.com/felis/USB_Host_Shield_2.0
